@@ -12,6 +12,7 @@ import com.my.consumeuserstest.domain.utlis.Constants.KEY_USER_FIRST_NAME
 import com.my.consumeuserstest.domain.utlis.Constants.KEY_USER_ID
 import com.my.consumeuserstest.domain.utlis.Constants.KEY_USER_LAST_NAME
 import com.my.consumeuserstest.presentation.mvp.BaseView
+import com.my.consumeuserstest.presentation.useradd.UserAddView
 import com.my.consumeuserstest.presentation.useredit.UserEditView
 
 import kotlinx.android.synthetic.main.user_view.*

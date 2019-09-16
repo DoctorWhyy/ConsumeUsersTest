@@ -2,6 +2,7 @@ package com.my.consumeuserstest
 
 import android.app.Application
 import com.my.consumeuserstest.di.AppComponent
+import com.my.consumeuserstest.di.DaggerAppComponent
 
 import timber.log.Timber
 
