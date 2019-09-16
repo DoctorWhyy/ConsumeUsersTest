@@ -1,12 +1,12 @@
-package com.my.testproject2.domain.repository
+package com.my.consumeuserstest.domain.repository
 
-import com.my.testproject2.domain.model.User
-import com.my.testproject2.domain.model.UserAdd
-import com.my.testproject2.domain.model.UserList
+import com.my.consumeuserstest.domain.model.User
+import com.my.consumeuserstest.domain.model.UserList
 import io.reactivex.Completable
 import io.reactivex.Observable
-import io.reactivex.Single
-import retrofit2.http.*
+import retrofit2.http.Body
+import retrofit2.http.GET
+import retrofit2.http.POST
 
 interface UsersRepository {
 

@@ -1,9 +1,8 @@
 package com.my.consumeuserstest
 
 import android.app.Application
-import com.my.testproject2.presentation.di.AppComponent
-import com.my.testproject2.BuildConfig
-import com.my.testproject2.presentation.di.DaggerAppComponent
+import com.my.consumeuserstest.di.AppComponent
+
 import timber.log.Timber
 
 class TestApplication :Application(){

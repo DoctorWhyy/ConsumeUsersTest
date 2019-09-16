@@ -1,4 +1,4 @@
-package com.my.testproject2.presentation.di
+package com.my.consumeuserstest.di
 
 import android.app.Application
 import android.content.Context

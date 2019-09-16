@@ -1,9 +1,9 @@
-package com.my.testproject2.presentation.di
+package com.my.consumeuserstest.di
 
 import android.content.Context
 import com.fasterxml.jackson.databind.ObjectMapper
-import com.my.testproject2.domain.repository.UsersRepository
-import com.my.testproject2.domain.utlis.Constants.BASE_URL
+import com.my.consumeuserstest.domain.repository.UsersRepository
+import com.my.consumeuserstest.domain.utlis.Constants.BASE_URL
 import dagger.Module
 import dagger.Provides
 import okhttp3.Interceptor

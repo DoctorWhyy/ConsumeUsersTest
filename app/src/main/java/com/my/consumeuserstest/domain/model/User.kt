@@ -1,4 +1,4 @@
-package com.my.testproject2.domain.model
+package com.my.consumeuserstest.domain.model
 
 
 import com.fasterxml.jackson.annotation.JsonProperty

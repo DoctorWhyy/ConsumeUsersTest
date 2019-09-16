@@ -1,4 +1,4 @@
-package com.jshvarts.conductormvp.di
+package com.my.consumeuserstest.di
 
 import javax.inject.Scope
 

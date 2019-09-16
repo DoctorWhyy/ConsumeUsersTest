@@ -1,8 +1,7 @@
-package com.my.testproject2.domain.usecases
+package com.my.consumeuserstest.domain.usecases
 
-import com.my.testproject2.domain.model.User
-import com.my.testproject2.domain.model.UserAdd
-import com.my.testproject2.domain.repository.UsersRepository
+import com.my.consumeuserstest.domain.model.User
+import com.my.consumeuserstest.domain.repository.UsersRepository
 import io.reactivex.Completable
 
 class UserUpdateUseCase(private val repository: UsersRepository) {

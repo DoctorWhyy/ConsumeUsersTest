@@ -1,7 +1,7 @@
-package com.my.testproject2.domain.usecases
+package com.my.consumeuserstest.domain.usecases
 
-import com.my.testproject2.domain.model.UserList
-import com.my.testproject2.domain.repository.UsersRepository
+import com.my.consumeuserstest.domain.model.UserList
+import com.my.consumeuserstest.domain.repository.UsersRepository
 import io.reactivex.Observable
 
 class UserFetchUseCase(private val repository: UsersRepository) {

@@ -1,9 +1,6 @@
-package com.my.testproject2.presentation.di
+package com.my.consumeuserstest.di
 
-import android.content.Context
 import dagger.Module
-import dagger.Provides
-import javax.inject.Singleton
 
 @Module
 class AppDbModule {
