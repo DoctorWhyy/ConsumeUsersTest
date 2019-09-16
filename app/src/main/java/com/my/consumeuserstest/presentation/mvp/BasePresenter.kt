@@ -1,4 +1,4 @@
-package com.my.consumeuserstest.mvp
+package com.my.consumeuserstest.presentation.mvp
 
 import io.reactivex.disposables.CompositeDisposable
 

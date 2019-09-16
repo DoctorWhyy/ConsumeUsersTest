@@ -1,12 +1,8 @@
-package com.my.consumeuserstest.mvp
+package com.my.consumeuserstest.presentation.mvp
 
 import android.os.Bundle
-import android.view.LayoutInflater
-import android.view.View
-import android.view.ViewGroup
 import androidx.annotation.LayoutRes
 import androidx.appcompat.app.AppCompatActivity
-import butterknife.ButterKnife
 
 
 abstract class BaseView : AppCompatActivity() {
